@@ -1,6 +1,6 @@
 ## What is MatchingEngine ? ##
 
-MatchingEngine is a library of algorithms which aim at forming
+MatchingEngine is a anonymous library of algorithms which aim at forming
 coalitions of individuals around some activities.
 
 We consider here a particular coalition game called, the
